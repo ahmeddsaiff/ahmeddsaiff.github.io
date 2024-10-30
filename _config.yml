@@ -3,7 +3,8 @@ description: "My interactive and elegant CV website"
 baseurl: "" # leave this empty if using GitHub Pages
 url: "https://<your-username>.github.io" # replace with your GitHub Pages URL
 
-theme: "minimal-mistakes-jekyll"
+remote_theme: "mmistakes/minimal-mistakes@version"
+
 
 # Social media links
 author:
