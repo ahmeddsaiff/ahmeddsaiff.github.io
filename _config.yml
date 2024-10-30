@@ -1,0 +1,25 @@
+title: "Ahmed Saif - CV"
+description: "My interactive and elegant CV website"
+baseurl: "" # leave this empty if using GitHub Pages
+url: "https://<your-username>.github.io" # replace with your GitHub Pages URL
+
+theme: "minimal-mistakes-jekyll"
+
+# Social media links
+author:
+  name: "Ahmed Saif"
+  email: ahmedsolimanasas820@gmail.com
+  links:
+    - label: "GitHub"
+      url: "https://github.com/ahmeddsaiff"
+    - label: "LinkedIn"
+      url: "https://www.linkedin.com/in/ahmed-saif-672a69268/"
+
+# Navigation links
+header_pages:
+  - about.md
+  - education.md
+  - experience.md
+  - projects.md
+  - skills.md
+  - contact.md
